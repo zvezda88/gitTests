@@ -70,7 +70,4 @@ public class stringcheta {
 		return k.toString();
 	}
 	
-	public static void willBeRemoved() {
-		System.out.println("more");
-	}
 }
